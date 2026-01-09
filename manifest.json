@@ -4,8 +4,8 @@
   "description": "The official, secure, and centralized file repository for Cogon National High School.",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#111827",
-  "theme_color": "#0052D4",
+  "background_color": "#e0e7ff",
+  "theme_color": "#4f46e5",
   "icons": [
     {
       "src": "icons/cogon192.png",
