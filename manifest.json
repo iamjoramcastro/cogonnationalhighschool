@@ -1,6 +1,6 @@
 {
-  "name": "File Depot",
-  "short_name": "File Depot",
+  "name": "COGON NATIONAL HIGH SCHOOL",
+  "short_name": "FILE DEPOT",
   "description": "The official and centralized file repository for Cogon National High School.",
   "start_url": ".",
   "display": "standalone",
@@ -19,4 +19,5 @@
     }
   ]
 }
+
 
