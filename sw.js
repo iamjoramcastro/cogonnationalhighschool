@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cnhs-file-depot-v2';
+const CACHE_NAME = 'cnhs-file-depot-v3';
 
 const urlsToCache = [
   '/',
@@ -44,3 +44,4 @@ self.addEventListener('fetch', (event) => {
       })
   );
 });
+
