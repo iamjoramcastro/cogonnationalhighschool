@@ -1,7 +1,7 @@
 {
-  "name": "CNHS File Depot",
+  "name": "File Depot",
   "short_name": "File Depot",
-  "description": "The official, secure, and centralized file repository for Cogon National High School.",
+  "description": "The official and centralized file repository for Cogon National High School.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#e0e7ff",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
